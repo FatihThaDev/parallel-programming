@@ -1,4 +1,3 @@
-==16423== Memcheck, a memory error detector
 ==16423== Copyright (C) 2002-2024, and GNU GPL'd, by Julian Seward et al.
 ==16423== Using Valgrind-3.25.1 and LibVEX; rerun with -h for copyright info
 ==16423== Command: ./main
@@ -43,3 +42,17 @@
 - To fix this, we need to first initialize variables ipos and ival to 0, because variables in C need to be initialized when created, and they weren't.
 - Also, we need to free the memory space which pointer iarray took up, because if not, while the program is running, the used up memory space will cause a memory leak.
 - Finally, the for loops were faulty, because the array has a size of 10, but for loop went from 0 to 10, and that will make the loop go to 11th index, which doesn't exit, because the array has a size of 10.
+
+
+==21620== Copyright (C) 2002-2024, and GNU GPL'd, by Julian Seward et al.
+==21620== Using Valgrind-3.25.1 and LibVEX; rerun with -h for copyright info
+==21620== Command: ./main
+==21620==
+==21620==
+==21620== HEAP SUMMARY:
+==21620==     in use at exit: 0 bytes in 0 blocks
+==21620==   total heap usage: 1 allocs, 1 frees, 40 bytes allocated
+==21620==
+==21620== All heap blocks were freed -- no leaks are possible
+==21620==
+==21620== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
