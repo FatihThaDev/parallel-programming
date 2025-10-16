@@ -12,6 +12,8 @@
 - Before running make, I had to install the gfortran package for it to work: `sudo pacman -S gcc-fortran`.
 - I ran `make`, and then executed the executable file stream.exe using command `./stream_c.exe`.
 
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/steam-benchmark.png?raw=true)
+
 # Task 3 - Roofline Toolkit:
 ---
 - I cloned the repository: https://bitbucket.org/berkeleylab/cs-roofline-toolkit.git, and executed the rest of the steps defined in the assignment task:
