@@ -77,6 +77,8 @@ ERT_GNUPLOT gnuplot
   `cp InputDecks/clover_bm256_short.in clover.in `
 - Then, I opened the output file in KCacheGrind.
 
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/cloverleaf.png?raw=true)
+
 ## Task 5 - likwid
 ---
 - Installed likwid with the AUR (Arch User Repository) using the command `yay -S likwid` (I have yay AUR helper installed by the way).
