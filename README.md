@@ -4,6 +4,8 @@
 - Also, I installed `gnuplot`, as defined in the assignment document with `sudo pacman -S gnuplot`.
 - Output of `lstopo` command can be found as an attached image in this repository.
 
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/lstopo.png?raw=true)
+
 # Task 2 - STREAM benchmarking:
 ---
 - I cloned the repository: https://github.com/jeffhammond/STREAM.git
@@ -58,3 +60,20 @@ ERT_TRIALS_MIN 1
 ERT_GNUPLOT gnuplot
 ```
 - Finally, I ran `./ert Config/NameByYourChoice`.
+
+## Task 4 - CloverLeaf
+---
+- I cloned the CLoverLeaf repository and moved into it:
+  `git clone --recursive https://github.com/UK-MAC/CloverLeaf.git`
+  `cd CloverLeaf`
+- I built the serial version of CLoverLeaf:
+  `make COMPILER=GNU IEEE=1 C_OPTIONS="-g -fno-tree-vectorize" OPTIONS="-g -fno-tree-vectorize"`
+
+- Then, I copied `clover_bm256_short.in` file to `clover.in` file:
+  `cp InputDecks/clover_bm256_short.in clover.in `
+- Then, I opened the output file in KCacheGrind.
+
+## Task 5 - likwid
+---
+- Installed likwid with the AUR (Arch User Repository) using the command `yay -S likwid` (I have yay AUR helper installed by the way).
+- Finally, I ran the command `Likwid-perfctr -C 0-87 -g MEM_DP ./clover_leaf`
