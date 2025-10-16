@@ -83,3 +83,5 @@ ERT_GNUPLOT gnuplot
 ---
 - Installed likwid with the AUR (Arch User Repository) using the command `yay -S likwid` (I have yay AUR helper installed by the way).
 - Finally, I ran the command `Likwid-perfctr -C 0-87 -g MEM_DP ./clover_leaf`
+
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/likwid.png?raw=true)
