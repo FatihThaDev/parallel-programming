@@ -63,6 +63,8 @@ ERT_GNUPLOT gnuplot
 ```
 - Finally, I ran `./ert Config/NameByYourChoice`.
 
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/roofline.png?raw=true)
+
 ## Task 4 - CloverLeaf
 ---
 - I cloned the CLoverLeaf repository and moved into it:
