@@ -4,7 +4,7 @@
 - Also, I installed `gnuplot`, as defined in the assignment document with `sudo pacman -S gnuplot`.
 - Output of `lstopo` command can be found as an attached image in this repository.
 
-![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/lstopo.png?raw=true)
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/resources/lstopo.png?raw=true)
 
 # Task 2 - STREAM benchmarking:
 ---
@@ -12,7 +12,7 @@
 - Before running make, I had to install the gfortran package for it to work: `sudo pacman -S gcc-fortran`.
 - I ran `make`, and then executed the executable file stream.exe using command `./stream_c.exe`.
 
-![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/steam-benchmark.png?raw=true)
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/resources/steam-benchmark.png?raw=true)
 
 # Task 3 - Roofline Toolkit:
 ---
@@ -63,7 +63,7 @@ ERT_GNUPLOT gnuplot
 ```
 - Finally, I ran `./ert Config/NameByYourChoice`.
 
-![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/roofline.png?raw=true)
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/resources/roofline.png?raw=true)
 
 ## Task 4 - CloverLeaf
 ---
@@ -77,7 +77,7 @@ ERT_GNUPLOT gnuplot
   `cp InputDecks/clover_bm256_short.in clover.in `
 - Then, I opened the output file in KCacheGrind.
 
-![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/cloverleaf.png?raw=true)
+![lstopo image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-2/resources/cloverleaf.png?raw=true)
 
 ## Task 5 - likwid
 ---
