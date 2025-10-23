@@ -46,3 +46,5 @@ make test_100M
 ```
 Google SHeet Link:
 - https://docs.google.com/spreadsheets/d/1eHZZTmG_VMgnbW0VDsfyoWUZpRQ24yeWHjgtbidA8FI/edit?gid=0#gid=0
+
+![Performance Graph](https://github.com/FatihThaDev/parallel-programming/blob/assignment-3/assets/graph.png?raw=true)
