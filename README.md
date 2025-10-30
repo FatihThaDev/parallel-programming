@@ -11,6 +11,9 @@
 - Pairwise sum adds numbers in pairs instead of straight order. This helps a bit with the errors, but is still not perfect.
 - Knuth and Kahan help fix these mistakes, so they are more efficient
 
+## Sheet link:
+- https://docs.google.com/spreadsheets/d/1lL9aipNT3dNz7a31NMronZb_xoPiK04nAPxc8GtMllQ/edit?gid=0#gid=0
+
 ## Why does this matter when using many computers?
 - When numbers are summed in a different sequence (such as in parallel or high-speed computing), numbers of errors can increase.
 - More efficient methods help, but do not fix this problem completely
