@@ -23,3 +23,5 @@
 ## How to use
 - To build: `make`
 - To run: `make run`
+
+![Empirical Analysis](https://github.com/FatihThaDev/parallel-programming/blob/assignment-4/assets/empirical-analysis.png?raw=true)
