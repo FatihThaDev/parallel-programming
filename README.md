@@ -18,7 +18,7 @@
 - When numbers are summed in a different sequence (such as in parallel or high-speed computing), numbers of errors can increase.
 - More efficient methods help, but do not fix this problem completely
 
-### I also needed to add linker flags, because `pow` was not recognized.
+- **Note**: I also needed to add linker flags, because `pow` was not recognized.
 
 ## How to use
 - To build: `make`
