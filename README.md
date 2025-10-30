@@ -25,3 +25,4 @@
 - To run: `make run`
 
 ![Empirical Analysis](https://github.com/FatihThaDev/parallel-programming/blob/assignment-4/assets/empirical-analysis.png?raw=true)
+![Sheet Screenshot](https://github.com/FatihThaDev/parallel-programming/blob/assignment-4/assets/sheet-ss.png?raw=true)
