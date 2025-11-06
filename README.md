@@ -20,7 +20,8 @@
 - Since they’re declared inside, they’re automatically private (like opt2)
 - The code is simpler and cleaner, but still fully optimized for SIMD
 
-  ![First Image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/make.png?raw=true)
-  ![First Image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/stream-triad.png?raw=true)
-    ![First Image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/likwid-output.png?raw=true)
+  ![Make](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/make.png?raw=true)
+  ![Stream Triad](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/stream-triad.png?raw=true)
+  ![Likwid](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/likwid-output.png?raw=true)
+  ![Vectorized Output](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/vectorized-output.png?raw=true)
 
