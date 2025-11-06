@@ -25,3 +25,4 @@
   ![Likwid](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/likwid-output.png?raw=true)
   ![Vectorized Output](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/vectorized-output.png?raw=true)
 
+- As we can see, adding the flags `-fno-trapping-math` and `-fno-math-errno` makes the uutput vectorized.
