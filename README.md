@@ -19,3 +19,5 @@
 - Moves these variables inside the loop
 - Since they’re declared inside, they’re automatically private (like opt2)
 - The code is simpler and cleaner, but still fully optimized for SIMD
+
+  ![First Image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-5/assets/make.png?raw=true)
