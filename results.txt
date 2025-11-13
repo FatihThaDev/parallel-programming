@@ -1,3 +1,4 @@
+parallel-programming on  assignment-6 [?] via C v15.2.1-gcc
 ❯ ./stencil_opt2
 Running with 4 thread(s)
 Iter 0
