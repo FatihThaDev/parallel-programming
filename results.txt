@@ -1,0 +1,14 @@
+❯ ./stencil_opt2
+Running with 4 thread(s)
+Iter 0
+Iter 1000
+Iter 2000
+Iter 3000
+Iter 4000
+Iter 5000
+Iter 6000
+Iter 7000
+Iter 8000
+Iter 9000
+Timing is init 0.086110 flush 144.702496 stencil 128.775782 total 273.569211
+
