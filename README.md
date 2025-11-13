@@ -1,6 +1,6 @@
 # Assignment 6 - Solution
 ---
-- To compile the different C files, I needed to modify the Makefile as shown in this image:
+- To compile the different C files, I needed to modify the lines of the Makefile that are shown in this image (replace stencil_opt2.c with stencil_opt4.c, etc.):
 
 ![Makefile Image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-6/assets/makefile.png?raw=true)
 
