@@ -1,5 +1,10 @@
 # Assignment 6 - Solution
 ---
+- To compile the different C files, I needed to modify the Makefile as shown in this image:
+
+![Makefile Image](https://github.com/FatihThaDev/parallel-programming/blob/assignment-6/assets/makefile.png?raw=true)
+
+
 - My CPU used 4 threads to execute the code
 - The main goal of these code iterations is to make parallelization faster and more efficient
 - In opt2, each major section (init, flush, stencil) is run with its own pragma `#pragma omp parallel for`
