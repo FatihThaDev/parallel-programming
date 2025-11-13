@@ -3,10 +3,15 @@
 - My CPU used 4 threads to execute the code
 - The main goal of these code iterations is to make parallelization faster and more efficient
 - In opt2, each major section (init, flush, stencil) is run with its own pragma `#pragma omp parallel for`
+  
   ![Stencil2](https://github.com/FatihThaDev/parallel-programming/blob/assignment-6/assets/stencil2.png?raw=true)
+  
 - in opt4, a single `#pragma omp parallel` wraps the whole loop, which reduces overhead
+  
   ![Stencil4](https://github.com/FatihThaDev/parallel-programming/blob/assignment-6/assets/stencil4.png?raw=true)
+  
 - In opt6, work is divied per thread. It adds explicit barriers, which minimizes shared memory conflicts
+  
   ![Stencil6](https://github.com/FatihThaDev/parallel-programming/blob/assignment-6/assets/stencil6.png?raw=true)
 
 
