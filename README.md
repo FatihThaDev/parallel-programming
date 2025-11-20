@@ -16,6 +16,6 @@ The assignment task is to:
    - 2 processes:
      ![2-processes](https://github.com/FatihThaDev/parallel-programming/blob/assignment-7/assets/2-processes.png?raw=true)
    - 4 processes:
-     ![2-processes](https://github.com/FatihTheDev/parallel-programming/blob/assignment-7/assets/4-processes.png?raw=true)
+     ![4-processes](https://github.com/FatihTheDev/parallel-programming/blob/assignment-7/assets/4-processes.png?raw=true)
    - 4 processes:
-     ![2-processes](https://github.com/FatihTheDev/parallel-programming/blob/assignment-7/assets/8-processes.png?raw=true) 
+     ![8-processes](https://github.com/FatihTheDev/parallel-programming/blob/assignment-7/assets/8-processes.png?raw=true) 
