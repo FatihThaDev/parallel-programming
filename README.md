@@ -10,7 +10,7 @@ The assignment task is to:
 - Run the code with 2, 4, and 8 processes
 
 ## How to Compile:
-1. Install `openmpi` package (sudo pacman -S openmpi)
+1. Install `openmpi` package (`sudo pacman -S openmpi` - on ***Arch Linux***)
 2. Run `make`
 3. Use `mpirun` command to run the code with:
    - 2 processes:
