@@ -115,3 +115,10 @@ The assignment task is to:
       launch.
       --------------------------------------------------------------------------
      ```
+
+     The commands: `mpirun -n 2 ./PartialSum`, `mpirun -n 4 ./PartialSum`, `mpirun -n 4 ./PartialSum`
+
+
+     Parts of code that need explanation are explained in `PertialSum.c` file:
+     - ![scatterv explanation](https://github.com/FatihThaDev/parallel-programming/blob/assignment-7/assets/scatterv.png?raw=true)
+     - ![rank0 explanation](https://github.com/FatihThaDev/parallel-programming/blob/assignment-7/assets/rank0.png?raw=true)
