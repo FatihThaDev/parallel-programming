@@ -14,7 +14,7 @@ The assignment task is to:
 2. Run `make`
 3. Use `mpirun` command to run the code with:
    - 2 processes:
-     ![2-processes](https://github.com/FatihTheDev/parallel-programming/blob/assignment-7/assets/2-processes.png?raw=true)
+     ![2-processes](https://github.com/FatihTheDev/parallel-programming/blob/assignment-7/assets/2-processes.png](https://github.com/FatihThaDev/parallel-programming/blob/assignment-7/assets/2-processes.png)
    - 4 processes:
      ![2-processes](https://github.com/FatihTheDev/parallel-programming/blob/assignment-7/assets/4-processes.png?raw=true)
    - 4 processes:
