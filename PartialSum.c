@@ -60,6 +60,8 @@ int main(int argc, char *argv[]) {
   cpu_timer_start(&tstart_time);
 
   // Explain what Scatterv does
+  // MPI_Scatterv distributes portions of a_global to each process based on
+  // nsizes[] and offsets[], allowing uneven partitions of the data.
   MPI_Scatterv(a_global, nsizes, offsets, MPI_DOUBLE, a_local, nsize,
                MPI_DOUBLE, 0, comm);
 
@@ -89,6 +91,8 @@ int main(int argc, char *argv[]) {
   double reduce_time = cpu_timer_stop(tstart_time);
 
   // Explain why only rank 0 needs to deallocate the resources
+  // Only rank 0 needs to deallocate the resources because only rank 0 allocated
+  // them. Other ranks never created the global array.
   if (rank == 0) {
     printf("\n========================================\n");
     printf("Timing Results:\n");
