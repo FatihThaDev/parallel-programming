@@ -4,11 +4,17 @@
 - I get this output:
   
   ❯ ./omp-stream
+  
   BabelStream
+  
   Version: 5.0
+  
   Implementation: OpenMP
+  
   Running kernels 100 times
+  
   Precision: double
+  
   Array size: 268.4 MB (=0.3 GB)
   Total size: 805.3 MB (=0.8 GB)
   Init: 0.232348 s (=3465.942859 MBytes/sec)
