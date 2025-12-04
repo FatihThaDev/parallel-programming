@@ -1,1 +1,0 @@
-/usr/bin/c++  -DNDEBUG -Wl,--dependency-file=CMakeFiles/ocl-stream.dir/link.d "CMakeFiles/ocl-stream.dir/src/ocl/OCLStream.cpp.o" "CMakeFiles/ocl-stream.dir/src/main.cpp.o" -o ocl-stream  /usr/lib/libOpenCL.so

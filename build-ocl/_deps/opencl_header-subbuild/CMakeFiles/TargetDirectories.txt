@@ -1,3 +1,0 @@
-/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-subbuild/CMakeFiles/opencl_header-populate.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-subbuild/CMakeFiles/edit_cache.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-subbuild/CMakeFiles/rebuild_cache.dir

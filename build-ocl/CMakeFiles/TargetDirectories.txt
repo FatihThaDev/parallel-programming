@@ -1,7 +1,0 @@
-/home/fatihthedev/Code/parallel-programming/build-ocl/CMakeFiles/ocl-stream.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/CMakeFiles/edit_cache.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/CMakeFiles/rebuild_cache.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/CMakeFiles/list_install_components.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/CMakeFiles/install.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/CMakeFiles/install/local.dir
-/home/fatihthedev/Code/parallel-programming/build-ocl/CMakeFiles/install/strip.dir

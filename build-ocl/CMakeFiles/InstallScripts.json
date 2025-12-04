@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/fatihthedev/Code/parallel-programming/build-ocl/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
