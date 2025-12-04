@@ -19,4 +19,6 @@
   
 ![OCL Output](https://github.com/FatihThaDev/parallel-programming/blob/assignment-8/assets/ocl-benchmark.png?raw=true)
 
-- Running ssh for CUDA testing doesn't work. Connection always times out
+- Running ssh for CUDA testing doesn't work. Connection always times out.
+
+  ![SSH](https://github.com/FatihThaDev/parallel-programming/blob/assignment-8/assets/ssh-cuda.png?raw=true)
