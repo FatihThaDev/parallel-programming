@@ -25,6 +25,4 @@
 
 - So as we can see, it uses 139264 threads when using CUDA.
 
-  ![SSH](https://github.com/FatihThaDev/parallel-programming/blob/assignment-8/assets/ssh-cuda.png?raw=true)
-
 - OpenMP should be a lot slower than the OpenCL and CUDA implementations, because OpenMP is running on the CPU, which is much less optimized for parallel computing.
