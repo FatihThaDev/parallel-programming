@@ -15,7 +15,7 @@
       -B build-ocl
   ```
   
-- Then I realized that Intel Compute Runtime does not expose OpenCL devices for my GPU, which is an older Intel i3, 6th gen integrated GPU, and Mesa's rusticl only provides OpenCL for Intel gen 8 or newer, so I get this output:
+- Then I realized that Intel Compute Runtime does not expose OpenCL devices for my GPU on Linux, which is an older Intel i3, 6th gen integrated GPU, and Mesa's rusticl only provides OpenCL for Intel gen 8 or newer, so I get this output:
   
 ![OCL Output](https://github.com/FatihThaDev/parallel-programming/blob/assignment-8/assets/ocl-benchmark.png?raw=true)
 
