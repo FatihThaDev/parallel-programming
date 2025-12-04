@@ -22,3 +22,5 @@
 - Running ssh for CUDA testing doesn't work. Connection always times out.
 
   ![SSH](https://github.com/FatihThaDev/parallel-programming/blob/assignment-8/assets/ssh-cuda.png?raw=true)
+
+- Theoretically, OpenMP should be a lot slower than the OpenCL and CUDA implementations, because OpenMP is running on the CPU, which is much less optimized for parallel computing.
