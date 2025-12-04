@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/fatihthedev/Code/parallel-programming/build-omp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

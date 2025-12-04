@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-subbuild/opencl_header-populate-prefix/src/opencl_header-populate-stamp/download-opencl_header-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-subbuild/opencl_header-populate-prefix/src/opencl_header-populate-stamp/verify-opencl_header-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-subbuild/opencl_header-populate-prefix/src/opencl_header-populate-stamp/extract-opencl_header-populate.cmake
+source_dir=/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-src
+work_dir=/home/fatihthedev/Code/parallel-programming/build-ocl/_deps
+url(s)=https://github.com/KhronosGroup/OpenCL-Headers/archive/refs/tags/v2021.06.30.zip
+hash=MD5=af7ab7918a6a11c60370c8651a9f0192
+      no_extract=
+

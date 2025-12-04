@@ -1,0 +1,1 @@
+/usr/bin/c++  -DNDEBUG -Wl,--dependency-file=CMakeFiles/omp-stream.dir/link.d "CMakeFiles/omp-stream.dir/src/omp/OMPStream.cpp.o" "CMakeFiles/omp-stream.dir/src/main.cpp.o" -o omp-stream  /usr/lib/libgomp.so /usr/lib/libpthread.a

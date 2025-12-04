@@ -1,0 +1,7 @@
+/home/fatihthedev/Code/parallel-programming/build-omp/CMakeFiles/omp-stream.dir
+/home/fatihthedev/Code/parallel-programming/build-omp/CMakeFiles/edit_cache.dir
+/home/fatihthedev/Code/parallel-programming/build-omp/CMakeFiles/rebuild_cache.dir
+/home/fatihthedev/Code/parallel-programming/build-omp/CMakeFiles/list_install_components.dir
+/home/fatihthedev/Code/parallel-programming/build-omp/CMakeFiles/install.dir
+/home/fatihthedev/Code/parallel-programming/build-omp/CMakeFiles/install/local.dir
+/home/fatihthedev/Code/parallel-programming/build-omp/CMakeFiles/install/strip.dir

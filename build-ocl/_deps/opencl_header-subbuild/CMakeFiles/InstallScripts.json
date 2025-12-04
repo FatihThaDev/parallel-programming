@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/fatihthedev/Code/parallel-programming/build-ocl/_deps/opencl_header-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
