@@ -9,8 +9,10 @@
 -  I had to modify the makefile to run entirely on the CPU using OpenMP, which still allows parallel execution across all CPU cores.
 
 - OpenMP with GPU offloading:
+  
    ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-error.png?raw=true)
 
 
 - OpenMP without GPU offloading:
+  
    ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-cpu.png?raw=true)
