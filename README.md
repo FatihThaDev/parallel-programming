@@ -24,7 +24,7 @@
   
   ![Openacc](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/openacc.png?raw=true)
 
-- As we can see, the small changes in `StreamTriad_kern1.c`, `StreamTriad_kern2.c`, `StreamTriad_kern3.c` make performance better by implementin directives.
+- As we can see, the small changes in `StreamTriad_kern1.c`, `StreamTriad_kern2.c`, `StreamTriad_kern3.c` make performance better by implementing directives.
 - `StreamTriad_kern1.c` is very slow, because it doesn't utilize directive-based programming.
 - `StreamTriad_kern2.c` adds `restrict` keyword, which tells the compiler variable pointers don't overlap and allows for more optimizations.
 - `StreamTriad_kern3.c` adds lines `#pragma acc enter data create(a[0:nsize], b[0:nsize], c[0:nsize])` and `#pragma acc exit data delete(...)`, which starts the dynamic data region after memory allocation.
