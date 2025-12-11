@@ -20,7 +20,6 @@
    ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-cpu.png?raw=true)
 
 ## OpenAcc
-- openAcc is much slower
 - For OpenAcc, I get these results:
   
   ![Openacc](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/openacc.png?raw=true)
