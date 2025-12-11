@@ -18,6 +18,9 @@
   
    ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-cpu.png?raw=true)
 
+  ## CUDA
+  - I have an Intel integrated GPU, so I am not able to run with CUDA.
+
 ## OpenAcc
 - For OpenAcc, I get these results:
   
