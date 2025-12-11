@@ -7,7 +7,6 @@
 
 ## OpenMP
 - The OpenMP version of STREAM can sometimes run on a GPU, but my system has an Intel integrated GPU (6th Gen i3), which is not supported by GCC for GPU offloading on Linux.
--  When I try to target the GPU, I get “no devices found.”
 -  I had to modify the makefile to run entirely on the CPU using OpenMP, which still allows parallel execution across all CPU cores.
 
 - OpenMP with GPU offloading:
