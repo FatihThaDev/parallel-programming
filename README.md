@@ -10,4 +10,8 @@
 -  When I try to target the GPU, I get “no devices found.”
 -  The program runs entirely on the CPU using OpenMP, which still allows parallel execution across all CPU cores.
 
-  ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-error.png?raw=true)
+- OpenMP with GPU offloading:
+   ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-error.png?raw=true)
+
+- OpenMP without GPU offloading:
+   ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-cpu.png?raw=true)
