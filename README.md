@@ -11,5 +11,6 @@
 - OpenMP with GPU offloading:
    ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-error.png?raw=true)
 
+
 - OpenMP without GPU offloading:
    ![OMP-Error](https://github.com/FatihThaDev/parallel-programming/blob/assignment-9/assets/omp-cpu.png?raw=true)
