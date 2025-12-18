@@ -1,6 +1,9 @@
 # Batch Scheduler
 
 - First, I ran `sbatch compute.sh` multiple times to create multiple jobs.
+
+![COmpute](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/compute.png?raw=true)
+  
 - As you can see from the screenshot below, the jobs are queued after running the command:
 
 - Then I installed `stress` package with `pacman -S stress`, and ran `./overload.sh`
