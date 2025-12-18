@@ -25,3 +25,5 @@
   ![Overload2.1](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/overload_top_2cpu.png?raw=true)
 
 - Then I ran `compute.sh`, without batch scheduler using this command: `salloc --ntasks=1 --cpus-per-task=2`, and as you can see, all the resources are hogged by the `compute.sh`:
+
+  ![ComputeWoS](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/ocompute_without_scheduler_2cpu.png?raw=true)
