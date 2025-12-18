@@ -2,13 +2,19 @@
 
 - First, I ran `sbatch compute.sh` multiple times to create multiple jobs.
 
-![COmpute](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/compute.png?raw=true)
+  ![Compute](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/compute.png?raw=true)
   
 - As you can see from the screenshot below, the jobs are queued after running the command:
 
+  ![Squeue](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/compute_down.png?raw=true)
+
 - Then I installed `stress` package with `pacman -S stress`, and ran `./overload.sh`
 
+  ![Overload1](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/overload_script_1cpu.png?raw=true)
+
 - I got this output in terminal:
+
+  ![Overload1.1](https://github.com/FatihThaDev/parallel-programming/blob/assignment-10/assets/overload_top_1cpu.png?raw=true)
 
 - Then I ran the same, but with 2 cores.
 
