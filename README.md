@@ -8,7 +8,7 @@
 
 
 ## Example 1:
-- In example 1, only rank 0 performs IO, so data is distributed and collected using MPI, but read and written on rank 0 serially. That means IO is completely serialized and will be slower.
+- In example 1, only rank 0 performs IO, so data is distributed and collected using MPI, but read and written on rank 0 serially. That means IO is completely serialized and will be slower. I had to run `make` for every iteration to build the executable for a specific version to run it.
 
 
   ![Version 1](https://github.com/FatihThaDev/parallel-programming/blob/assignment-11/assets/v1.png?raw=true)
