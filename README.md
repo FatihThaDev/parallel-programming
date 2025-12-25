@@ -16,6 +16,7 @@
 
 ## Example 2:
 - In example 2, each process reads its part of the csv seperately, and writes using `MPI_File_write_at`. Now, there is no data aggregation on rank 0, and IO is independent.
+  
 
 - Serial version:
 
@@ -31,6 +32,9 @@
 
 ## Example 3:
 - In example 3, same computation logic is used like in example 2 (uses `MPI_File_write_all`) and uses explicit MPI-IO hints. It also uses IO aggregators for data . This reduces filysystem contention.
+
+
+  - Serial version:
 
 
   ![Version 3](https://github.com/FatihThaDev/parallel-programming/blob/assignment-11/assets/v3.png?raw=true)
