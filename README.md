@@ -1,11 +1,7 @@
 # Parallel file operations
 
 ## File generator:
-- First, I had to generate csv file by running
-  ```bash
-  gcc file_generator.c -o file_generator -lm
-  ```
-  (to prevent linker errors), then running it with `./file_generator` to get the csv.
+- First, I had to generate csv file by running `gcc file_generator.c -o file_generator -lm` (to prevent linker errors), then running it with `./file_generator` to get the csv.
 
 
 ![File Generator](https://github.com/FatihThaDev/parallel-programming/blob/assignment-11/assets/file_generator.png?raw=true)
