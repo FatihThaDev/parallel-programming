@@ -30,7 +30,7 @@
   ![Version 2 - MPI](https://github.com/FatihThaDev/parallel-programming/blob/assignment-11/assets/v2_2-proc.png?raw=true)
 
 
-- As we can see in the benchmarks, in my case, parallel execution had a smaller write bandwidth than serial one. That is because independant writes (in MPI version) by multiple processes can cause disk contention. Example 3 gets rid of this by aggregating write requests.
+- As we can see in the benchmarks, in my case, parallel execution had a smaller write bandwidth than serial one. That is because independant writes (in MPI version) by multiple processes can cause disk contention.
 
 
 ## Example 3:
